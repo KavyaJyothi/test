@@ -1,6 +1,70 @@
-01/18/2021 01:58:55 PM - SeleniumDriver - INFO: Element found with locator: //input[@formcontrolname='mobile_no'] and  locatorType: xpath
-01/18/2021 01:58:55 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@formcontrolname='mobile_no'] locatorType: xpath
-01/18/2021 01:58:57 PM - SeleniumDriver - INFO: Element found with locator: //input[@formcontrolname='otp'] and  locatorType: xpath
-01/18/2021 01:58:57 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@formcontrolname='otp'] locatorType: xpath
-01/18/2021 01:58:57 PM - SeleniumDriver - INFO: Element not found with locator: //div/div/div[@data-email='kavya.b@workex.xyz'] and  locatorType: xpath
-01/18/2021 01:58:57 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div/div/div[@data-email='kavya.b@workex.xyz'] locatorType: xpath
+01/25/2021 02:28:51 PM - SeleniumDriver - INFO: Element found with locator: //input[@formcontrolname='mobile_no'] and  locatorType: xpath
+01/25/2021 02:28:52 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@formcontrolname='mobile_no'] locatorType: xpath
+01/25/2021 02:28:52 PM - SeleniumDriver - INFO: Element found with locator: //input[@formcontrolname='mobile_no'] and  locatorType: xpath
+01/25/2021 02:28:52 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@formcontrolname='mobile_no'] locatorType: xpath
+01/25/2021 02:28:58 PM - SeleniumDriver - INFO: Element found with locator: //input[@formcontrolname='otp'] and  locatorType: xpath
+01/25/2021 02:28:58 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@formcontrolname='otp'] locatorType: xpath
+01/25/2021 02:28:58 PM - SeleniumDriver - INFO: Element found with locator: //input[@formcontrolname='otp'] and  locatorType: xpath
+01/25/2021 02:28:58 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@formcontrolname='otp'] locatorType: xpath
+01/25/2021 02:29:06 PM - SeleniumDriver - INFO: CDwindow-A5226A901A36510643D390D1034DF399
+01/25/2021 02:29:06 PM - SeleniumDriver - INFO: inside for loop
+01/25/2021 02:29:11 PM - SeleniumDriver - INFO: Element not found with locator: //nb-radio-group/nb-radio[2]/label/span[2] and  locatorType: xpath
+01/25/2021 02:29:11 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //nb-radio-group/nb-radio[2]/label/span[2] locatorType: xpath
+01/25/2021 02:29:18 PM - SeleniumDriver - INFO: Element not found with locator: //button[@tabindex='0' and contains(text(), 'Next')] and  locatorType: xpath
+01/25/2021 02:29:18 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@tabindex='0' and contains(text(), 'Next')] locatorType: xpath
+01/25/2021 02:29:21 PM - SeleniumDriver - INFO: Element not found with locator: //div/div[2]/div[2]/div[2]/span[contains(text(), 'Experienced')] and  locatorType: xpath
+01/25/2021 02:29:21 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div/div[2]/div[2]/div[2]/span[contains(text(), 'Experienced')] locatorType: xpath
+01/25/2021 02:29:23 PM - SeleniumDriver - INFO: Element not found with locator: //div/div[2]/div[1]/nb-select/button and  locatorType: xpath
+01/25/2021 02:29:23 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div/div[2]/div[1]/nb-select/button locatorType: xpath
+01/25/2021 02:29:25 PM - SeleniumDriver - INFO: Element not found with locator: //div[@id="cdk-overlay-1"]/div/ul/nb-option[1] and  locatorType: xpath
+01/25/2021 02:29:25 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[@id="cdk-overlay-1"]/div/ul/nb-option[1] locatorType: xpath
+01/25/2021 02:29:28 PM - SeleniumDriver - INFO: Element not found with locator: //div/div[2]/div[2]/nb-select/button and  locatorType: xpath
+01/25/2021 02:29:28 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div/div[2]/div[2]/nb-select/button locatorType: xpath
+01/25/2021 02:29:30 PM - SeleniumDriver - INFO: Element not found with locator: //div[@id='cdk-overlay-2']/div/ul/nb-option[3] and  locatorType: xpath
+01/25/2021 02:29:30 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[@id='cdk-overlay-2']/div/ul/nb-option[3] locatorType: xpath
+01/25/2021 02:29:33 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-location/div/div/div/input and  locatorType: xpath
+01/25/2021 02:29:33 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //ngx-location/div/div/div/input locatorType: xpath
+01/25/2021 02:29:35 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-location/div[2]/nb-card/nb-list/nb-list-item[1] and  locatorType: xpath
+01/25/2021 02:29:35 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-location/div[2]/nb-card/nb-list/nb-list-item[1] locatorType: xpath
+01/25/2021 02:29:38 PM - SeleniumDriver - INFO: Element not found with locator: //button[@tabindex='0' and contains(text(), 'Next')] and  locatorType: xpath
+01/25/2021 02:29:38 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@tabindex='0' and contains(text(), 'Next')] locatorType: xpath
+01/25/2021 02:29:41 PM - SeleniumDriver - INFO: Element not found with locator: //div/div[2]/ngx-wx-dropdown/div and  locatorType: xpath
+01/25/2021 02:29:41 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div/div[2]/ngx-wx-dropdown/div locatorType: xpath
+01/25/2021 02:29:43 PM - SeleniumDriver - INFO: Element not found with locator: //ng-dropdown-panel/div/div/div[2]/span and  locatorType: xpath
+01/25/2021 02:29:43 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ng-dropdown-panel/div/div/div[2]/span locatorType: xpath
+01/25/2021 02:29:45 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-experience-profile/div/div[3]//ngx-wx-dropdown/div/ng-select and  locatorType: xpath
+01/25/2021 02:29:45 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-experience-profile/div/div[3]//ngx-wx-dropdown/div/ng-select locatorType: xpath
+01/25/2021 02:29:47 PM - SeleniumDriver - INFO: Element not found with locator: //ng-dropdown-panel/div/div/div[1] and  locatorType: xpath
+01/25/2021 02:29:47 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ng-dropdown-panel/div/div/div[1] locatorType: xpath
+01/25/2021 02:29:49 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-experience-profile/div/div[4]/ngx-wx-dropdown/div/ng-select and  locatorType: xpath
+01/25/2021 02:29:49 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-experience-profile/div/div[4]/ngx-wx-dropdown/div/ng-select locatorType: xpath
+01/25/2021 02:29:51 PM - SeleniumDriver - INFO: Element not found with locator: //ng-dropdown-panel/div/div/div[1]/span and  locatorType: xpath
+01/25/2021 02:29:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ng-dropdown-panel/div/div/div[1]/span locatorType: xpath
+01/25/2021 02:29:53 PM - SeleniumDriver - INFO: Element not found with locator: (//ngx-wx-dropdown/div/ng-select/div/div/div[2]/input)[1] and  locatorType: xpath
+01/25/2021 02:29:53 PM - SeleniumDriver - INFO: Cannot click on the element with locator: (//ngx-wx-dropdown/div/ng-select/div/div/div[2]/input)[1] locatorType: xpath
+01/25/2021 02:29:55 PM - SeleniumDriver - INFO: Element not found with locator: //ng-dropdown-panel/div/div/div[1]/span and  locatorType: xpath
+01/25/2021 02:29:55 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ng-dropdown-panel/div/div/div[1]/span locatorType: xpath
+01/25/2021 02:29:57 PM - SeleniumDriver - INFO: Element not found with locator: //nb-checkbox/label/span[2] and  locatorType: xpath
+01/25/2021 02:29:57 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //nb-checkbox/label/span[2] locatorType: xpath
+01/25/2021 02:30:03 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-experience-profile/div/div[8]/div/input and  locatorType: xpath
+01/25/2021 02:30:03 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //ngx-experience-profile/div/div[8]/div/input locatorType: xpath
+01/25/2021 02:30:05 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-experience-profile/div/div[9]/div and  locatorType: xpath
+01/25/2021 02:30:05 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-experience-profile/div/div[9]/div locatorType: xpath
+01/25/2021 02:30:05 PM - SeleniumDriver - INFO: Element not found with locator: //ng-dropdown-panel/div/div/div[3] and  locatorType: xpath
+01/25/2021 02:30:05 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ng-dropdown-panel/div/div/div[3] locatorType: xpath
+01/25/2021 02:30:08 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-new-add-edit-chip/div/div[1] and  locatorType: xpath
+01/25/2021 02:30:08 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-new-add-edit-chip/div/div[1] locatorType: xpath
+01/25/2021 02:30:11 PM - SeleniumDriver - INFO: Element not found with locator: //button[@tabindex='0' and contains(text(), 'Next')] and  locatorType: xpath
+01/25/2021 02:30:11 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@tabindex='0' and contains(text(), 'Next')] locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-new-add-edit-chip/div/div[1] and  locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-new-add-edit-chip/div/div[1] locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-new-add-edit-chip/div/div[2] and  locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-new-add-edit-chip/div/div[2] locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-new-add-edit-chip/div/div[3] and  locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-new-add-edit-chip/div/div[3] locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-new-add-edit-chip/div/div[4] and  locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-new-add-edit-chip/div/div[4] locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Element not found with locator: //ngx-new-add-edit-chip/div/div[5] and  locatorType: xpath
+01/25/2021 02:30:14 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //ngx-new-add-edit-chip/div/div[5] locatorType: xpath
+01/25/2021 02:30:17 PM - SeleniumDriver - INFO: Element not found with locator: //button[@tabindex='0' and contains(text(), 'Next')] and  locatorType: xpath
+01/25/2021 02:30:17 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@tabindex='0' and contains(text(), 'Next')] locatorType: xpath

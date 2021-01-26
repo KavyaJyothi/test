@@ -149,3 +149,6 @@ class SeleniumDriver():
             self.log.info("Element not appeared on the web page")
             print_stack()
         return element
+
+    def wescroll(self):
+        self.driver.execute_script("window.scrollTo(0, 200);")
