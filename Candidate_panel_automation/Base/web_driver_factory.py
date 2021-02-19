@@ -24,7 +24,7 @@ class WebDriverFactory:
         else:
             driver = webdriver.Firefox()
         # Setting Driver Implicit Time out for An Element
-        time.sleep(2)
+        time.sleep(5)
         driver.get(baseURL)
         time.sleep(4)
 

@@ -2,7 +2,7 @@ from  Base.selenium_driver import  SeleniumDriver
 import time
 class CandidateOnboardingFlow(SeleniumDriver):
     def __init__(self, driver):
-        super().__init__(driver)
+
         self.driver=driver
 
     xpath_mob_no_field="//input[@formcontrolname='mobile_no']"
@@ -149,6 +149,7 @@ class CandidateOnboardingFlow(SeleniumDriver):
         time.sleep(5)
         self.click_next1()
         time.sleep(3)
+    def experience_detais(self):
         self.select_experience()
         time.sleep(3)
         self.select_qualification()
